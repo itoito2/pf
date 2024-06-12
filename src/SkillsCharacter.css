@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 50px;
+}
+
+.section {
+  width: 45%;
+}
+
+.t{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+.skill span {
+  width: 150px;
+}
+
+.bar {
+  flex: 1;
+  height: 20px;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+}
+
+.level {
+  height: 100%;
+  border-radius: 10px;
+
+}
+
+.js {
+  width: 80%;
+  background-color: #00aaff;
+}
+
+.sql {
+  width: 50%;
+  background-color: #00aaff;
+}
+
+.python {
+  width: 70%;
+  background-color: #00aaff;
+}
+
+.cpp {
+  width: 60%;
+  background-color: #00aaff;
+}
+
+.intelligence {
+  width: 80%;
+  background-color: #00aaff;
+}
+
+.smart {
+  width: 60%;
+  background-color: #00aaff;
+}
+
+.funny {
+  width: 70%;
+  background-color: #00aaff;
+}
+
+.skilled {
+  width: 75%;
+  background-color: #00aaff;
+}
